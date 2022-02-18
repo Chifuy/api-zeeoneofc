@@ -1,7 +1,7 @@
 {
-  "name": "api-zeeoneofc",
-  "version": "1.1.0",
-  "description": "My Rest Api Projectttttt",
+  "name": "Origami-Api",
+  "version": "1.0.0",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
